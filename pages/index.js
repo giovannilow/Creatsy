@@ -71,7 +71,7 @@ export default function Home() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4">
           { // bg-[#e3dfc3]
             nfts.map((nft, i) => (
-              <div key={i} class="border shadow rounded-xl overflow-hidden bg-black border-3 border-inherit">
+              <div key={i} className="border shadow rounded-xl overflow-hidden bg-black border-3 border-inherit">
                 <img src={nft.image} className="h-64 w-full object-cover"/>
                 <div className="p-4">
                   <p style={{ height: '40px' }} className="text-2xl font-semibold text-center text-white">{nft.name}</p>
