@@ -12,7 +12,7 @@ Currently still figuring out the deployment of the app, meanwhile you can take a
 
 ![Main page screenshot](https://github.com/giovannilow/Creatsy/blob/main/images/Main-Page.png)
 
-This is the create NFT page. By uploading your digital assets, you can convert your 
+This is the create NFT page. By uploading your digital assets, you can convert your works into bonafide NFT bonds.
 
 ![Create NFT screenshot](https://github.com/giovannilow/Creatsy/blob/main/images/Create-NFT.png)
 
