@@ -4,10 +4,11 @@ A marketplace that allows you to list and sell your NFTs as bonds. A small proje
 
 ## Application
 Currently still figuring out the deployment of the app, meanwhile you can take a look at what the website looks like below.
-![Main page screenshot] (images/Main Page.png?raw=true "Title")
+![Main page screenshot](https://github.com/giovannilow/Creatsy/blob/images/Main Page.png)
 
 This is the create NFT page. Currently a work in progress.
 ![Create page screenshot] (images/Create NFT.png?raw=true "Title")
+![Create NFT screenshot](https://github.com/giovannilow/Creatsy/blob/images/Create NFT.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
