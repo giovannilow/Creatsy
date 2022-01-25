@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Creatsy - Buy and Sell Artiste NFT bonds
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+A marketplace that allows you to list and sell your NFTs as bonds. A small project to explore the use of smart contacts and how NFTs work.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
